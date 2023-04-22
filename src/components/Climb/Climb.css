@@ -1,0 +1,57 @@
+.climb__content {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+  padding: 50px;
+  display: flex;
+  position: relative;
+}
+
+.climb__content p {
+  font-weight: 600;
+  font-size: 8vw;
+}
+
+.climb__content h6 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 3rem;
+  color: var(--color-primary-variant);
+}
+
+.climb__content span {
+  /* display: inline-block; */
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 28px;
+  vertical-align: middle;
+  color: var(--color-bg-variant);
+}
+
+.text {
+  margin-left: 10px;
+}
+
+.foot {
+  background: var(--color-bg-variant);
+  height: 4rem;
+  margin: 0;
+}
+
+.foot a {
+  color: var(--color-white);
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 12rem 0rem 0 4rem;
+}
+
+.foot a:hover {
+  color: var(--color-primary-variant);
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 12rem 0rem 0 4rem;
+}
+
+.foot__content {
+  margin: 0rem 0 0 12rem;
+}

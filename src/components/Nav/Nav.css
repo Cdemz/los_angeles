@@ -1,0 +1,14 @@
+.nav {
+  height: 6vh;
+  display: flex;
+}
+
+.nav img {
+  height: 5.6vh;
+  width: 10vw;
+  margin: 0 43vw 0 23px;
+}
+
+.nav a {
+  margin: 0 5vw 0 0;
+}

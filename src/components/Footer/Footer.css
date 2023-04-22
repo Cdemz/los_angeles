@@ -1,0 +1,12 @@
+#footer {
+  background: var(--color-bg-variant);
+  height: 8rem;
+}
+
+h5 {
+  position: absolute;
+  right: 4rem;
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: var(--color-primary-variant);
+}
